@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.outer{
+
+    width: 80%;
+    height: 700px;
+    position: relative;
+    left: 10%;
+border:solid black;
+/* background-color: aqua; */
+
+
+}
+img{
+    float: right;
+    position: relative;
+    right: 10%;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h1{
+    margin: 0%;
+    text-align: center;
+    font-style: oblique;
+color: brown;
+}
+.ax{
+    position: relative;
+    left: 5%;
+ color: darkmagenta;
+    
+}
+h3{
+    color: red;
+}
+.w{
+    position: relative;
+    left: 5%;
+    background-color: antiquewhite;
+    margin: 2px;
+    width: 90%; 
+    font-weight: bold;  
+}
+.q{
+    position: relative;
+    left: 5%; 
+}
+.t{
+    position: relative;
+    left: 5%;
+    background-color: antiquewhite;
+    margin: 2px;
+    width: 90%;   
+    font-weight: bold; 
+}
+.r{
+    position: relative;
+    left: 8%; 
+}  
+.e{
+    position: relative;
+    left: 5%;
+    background-color: antiquewhite;
+    margin: 2px;
+    width: 90%;   
+    font-weight: bold; 
+}   
+.u{
+    position: relative;
+    left: 8%;  
+}
+.i{
+    position: relative;
+    left: 5%;
+    background-color: antiquewhite;
+    margin: 2px;
+    width: 90%;   
+    font-weight: bold;    
+}
+.o{
+    position: relative;
+    left: 8%;  
+}
+.l{
+    position: relative;
+    left: 5%;
+    background-color: antiquewhite;
+    margin: 2px;
+    width: 90%;   
+    font-weight: bold; 
+       
+}
+.k{
+    position: relative;
+    left: 8%;    
+}
+.g{
+    position: relative;
+    left: 5%;
+    background-color: antiquewhite;
+    margin: 2px;
+    width: 90%;   
+    font-weight: bold; 
+        
+}
+.b{
+    position: relative;
+    left: 8%;    
+}
